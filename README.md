@@ -1,3 +1,7 @@
+# My Paypal for donations
+
+yuuri.caetano@gmail.com
+
 # YouTube Video Downloader
 
 This is a simple Python script for downloading videos from YouTube.
